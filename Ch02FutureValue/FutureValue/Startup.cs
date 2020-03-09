@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace FutureValue
 {
+    // NOTA: Archivo comentado.
     public class Startup
     {
         public Startup(IConfiguration configuration)
